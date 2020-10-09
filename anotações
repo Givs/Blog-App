@@ -1,0 +1,10 @@
+json
+
+ngrok server configura no pc e faz com que o celular consiga se comunicar com o servidor
+npm install json-server ngrok
+
+npm install axios
+
+useReducer
+useState
+useEffect -  usado para rodar um component apenas uma vez quando e tela é renderizada

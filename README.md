@@ -1,7 +1,11 @@
-<h1>
+<h1 align="center">
     Blog Post App
 </h1>
 
+<h1 style="display:flex; justify-content:space-between" >
+    <img src="assets/delete and create.gif" width="200" height="400">
+    <img src="assets/editind.gif" width="200" height="400">
+</h1>
 
 
 

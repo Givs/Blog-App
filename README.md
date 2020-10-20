@@ -3,23 +3,9 @@
 </h1>
 
 
-<div class="box">
-    <img src="assets/delete and create.gif"/>
-    <span> Deleting and  Creating </span>
-</div>
-<div class="box">
-    <img src="assets/editind.gif"/>
-    <span> Editing and Showing</span>
-</div>
 
 
-<style>
-div.box {
-	width: 250px;
-	display: inline-block;
-    margin-left: 70px
-},
-</style>
+
 
 ---
 

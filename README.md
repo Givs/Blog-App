@@ -14,7 +14,7 @@
 ---
 
 # 📖About
-A simple project using React Native and Expo. The main goal is to pratice **React Hooks** useReducer, useState and useEffect. Inside off this aplication we have 4 different screens, each one has one particular job: Create a new post, Edit a post, Show a particular post and Show all post and delete.
+A simple project using React Native and Expo. The main goal is to pratice **React Hooks** useReducer, useState and useEffect. Inside of this aplication we have 4 different screens, each one has one particular job: Create a new post, Edit a post, Show a particular post and Show all post and delete.
 
 ---
 
